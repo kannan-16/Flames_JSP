@@ -7,7 +7,7 @@
 <title>Lovers</title>
 <style>
 body {
-  background-image: url('https://i.ytimg.com/vi/f6G_8YE3rjE/maxresdefault.jpg');
+  background-image: url('https://image.shutterstock.com/image-vector/cute-cartoon-couple-take-red-260nw-558677926.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
